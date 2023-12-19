@@ -23,9 +23,13 @@ I would also like to mention that at the same time I have put considerable effor
 **explanation :**
 
 bitwise xor operator : ^
+
 xor of two number with same values always returns 0
+
 xor of a number with 0 always returns the number itself
+
 formula of xor is 
+
 a^b = (a'.b) + (a.b')
 
 ![image](https://github.com/raghav20232023/bitManipulationLeetCode/assets/153320363/62d77579-6a49-4de7-9983-fa52d7f8d2df)
