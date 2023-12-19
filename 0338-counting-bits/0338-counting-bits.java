@@ -8,7 +8,6 @@ class Solution {
             while(temp != 0){ 
                 temp = temp & (temp-1);
                 count++;
-                //counting number of bits using brian kernighan's algorithm of counting number of 1 
             }
             arr[i] = count;
         }
