@@ -34,7 +34,7 @@ a^b = (a'.b) + (a.b')
 
 ![image](https://github.com/raghav20232023/bitManipulationLeetCode/assets/153320363/62d77579-6a49-4de7-9983-fa52d7f8d2df)
 
-linear time complexity and constant space complexity
+linear time complexity and constant space complexity.
 
 
 
