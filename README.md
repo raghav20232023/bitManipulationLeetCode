@@ -36,7 +36,7 @@ a^b = (a'.b) + (a.b')
 
 linear time complexity and constant space complexity.
 
-en
+end
 
 
 
